@@ -1,3 +1,10 @@
+@font-face {
+    font-family: monsterrat-semibold;
+    src: url('font/Montserrat-SemiBold.ttf');    
+}
+
 body {
-    background-color: aqua
+    background-color: beige;   
+    font-family: montserrat-semibold, sans-serif;
+    font-size: 18px
 }
